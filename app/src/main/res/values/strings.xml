@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="home">Home</string>
+
+
+    <!-- Content -->
+    <string name="agent">Agent</string>
+    <string name="myFlights">My Flights</string>
+    <string name="login">Login</string>
+    <string name="searchFlights">Search Flights</string>
+    <string name="viewCart">View Cart</string>
+
+    <!-- Admin Override -->
+    <string name="b_1">1</string>
+    <string name="b_2">2</string>
+    <string name="b_3">3</string>
+    <string name="b_4">4</string>
+    <string name="b_5">5</string>
+    <string name="b_6">6</string>
+    <string name="b_7">7</string>
+    <string name="b_8">8</string>
+    <string name="b_9">9</string>
+    <string name="b_0">0</string>
+    <string name="enter">Enter</string>
+    <string name="backspace">backspace</string>
+
+    <!-- Admin Override Options -->
+    <string name="user">User</string>
+    <string name="Reservations">Reservations</string>
+    <string name="flyer">Flyer</string>
+
+    <!-- Login -->
+    <string name="admin">Admin</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <!-- Search -->
+    <string name="search">Search</string>
+
+
+    <!-- Search Results -->
+    <string name="addToCart">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
